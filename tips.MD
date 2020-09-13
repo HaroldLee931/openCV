@@ -82,4 +82,11 @@
 - Install with Docker(TODO)
 - Install from source(not recommend unless you are familiar with CLI)
 
-## 
+## Vocabulary
+
+interpolating
+
+
+## Play Docker
+
+- install docker
